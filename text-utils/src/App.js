@@ -1,10 +1,10 @@
 import "./App.css";
-import Navbar from "./components/Navbar";
+import Newcomp from "./components/Newcomp";
 
 function App() {
   return (
     <>
-      <Navbar title="TextUtils" />
+      <Newcomp />
     </>
   );
 }
